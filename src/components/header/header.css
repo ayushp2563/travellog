@@ -73,6 +73,7 @@
 }
 
 .headerSearchInput {
+  display: flex;
   border: none;
   outline: none;
 }
